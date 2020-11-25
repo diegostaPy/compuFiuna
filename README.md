@@ -1,6 +1,6 @@
 # Repositorio de Ejercicios de Computación
 
-Este repositorio contiene ejercicios ejemplos, resueltos y desafíos de la cátedra computación. El mismo fue elaborado por docentes de la cátedra. 
+Este repositorio contiene ejercicios ejemplos, resueltos y desafíos de la cátedra computación. El mismo fue elaborado por varios docentes de la cátedra. 
 
 **Repositorio** [GitHub](https://github.com/diegostaPy/compuFiuna).
 
